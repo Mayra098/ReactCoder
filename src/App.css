@@ -24,9 +24,6 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +32,39 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.menu{
+  background-color: rgb(57, 78, 80);
+  padding: 3em;
+  display: flex;
+  margin: 0;
+  justify-content: center;
+
+  
+
+}
+.menu li{
+  padding:0em 1em 0 1em ;
+  list-style-type: none;
+
+}
+
+a{
+ text-decoration: none;
+ color: aliceblue;
+}
+a:hover{
+  color: rgb(38, 62, 94);
+}
+
+.bien{
+font-family: 'Karla', sans-serif;
+}
+.contenedor{
+  padding: 2em;
+  color: rgb(38, 62, 94);
+  font-size: 30px;
+  display: flex;
+    justify-content: center;
 }
