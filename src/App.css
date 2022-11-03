@@ -68,3 +68,13 @@ font-family: 'Karla', sans-serif;
   display: flex;
     justify-content: center;
 }
+
+
+.principalContainer{
+  margin: 50px;
+}
+.cardContainer{
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}

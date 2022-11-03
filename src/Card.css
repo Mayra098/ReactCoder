@@ -1,0 +1,15 @@
+
+.card{
+    background-color: rgb(62, 62, 62);
+    width: 300px;
+    border: 1px gray solid;
+    border-radius: 20px;
+    margin: 3em;
+}
+.descripcion{
+    padding: 2em;
+}
+img{
+    width: 200px;
+    margin: 2em 2.5em 0em 2.5em;
+}
